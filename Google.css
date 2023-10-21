@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header-main{
+ display: flex;
+ justify-content: flex-end;
+ align-items: center;
+ word-spacing: 10px;
+ height: 50px;
+}
+.header {
+    margin-top: 40px;
+    justify-content:space-around;
+    align-items:center;
+    display: grid; 
+    gap: 60px;
+}
+.span h1{
+    text-align: center;
+}
+#g, #o, #o2, #g2, #l, #e{
+    font-size: 80px;
+}
+#g{
+    color:rgb(20, 20, 245);
+}
+#o{
+    color: red;
+}
+#o2{
+    color: yellow;
+}
+#g2{
+    color: blue;
+}
+#l{
+    color: green;
+}
+#e{
+    color: red;
+}
+h1{
+     font-size: xx-large;
+}
+.input{
+    display: flex;
+    border: 1px solid black;
+   border-radius:40px;
+   height:40px;
+   align-items: center;
+   justify-content: space-around;
+}
+img{
+    border-radius: 300px;
+    height: 60px;
+    width: 50px;
+}
+nav{
+    font-size: 22px;
+    padding-bottom: 20px;
+}
+input{
+    width: 400px;
+    height: 30px;
+    text-align: center;
+    border: 10px;
+}
+.icons{
+    display: flex;
+    gap: 25px;
+}
+ a{
+    font-size:x-large;
+    justify-content: space-around;
+    gap: 2opx;
+}
+#whatsapp a{
+    color: green;
+}
+#youtube a{
+    color: red;
+}
+#facebook a{
+    color: blue;
+}
+#GitHub a{
+    color: black;
+}
+#DEV a{
+  color: black;
+}
+#Linkedin a{
+    color: rgb(41, 41, 198);
+}
+#magnifying-glass{
+    color: rgb(85, 79, 79);
+}
+#microphone{
+    color: red;
+}
+
+
+
+

@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+ .pic h1{
+    color: blue;
+   
+}
+img{
+    width: 150px;
+    height: 200px;
+}
+.main{
+    display: flex;
+    gap: 75px;
+    margin-top: 30px;
+}
+
+.div1{
+    width: 50px;
+    background-color: blueviolet;
+}
+.input text{
+    margin-top: 40px;
+    width: 400px;
+    height: 30px;
+    text-align: center;
+    gap: 60px;  
+}
+p img{
+    line-height: 20px;
+}
+img{
+    margin-top: 20px;
+}
+#login{
+    padding:3px;
+    width: 150px;
+}
+.media screen()
+
